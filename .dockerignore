@@ -1,0 +1,5 @@
+Dockerfile
+*.pem
+.env
+.git
+node_modules

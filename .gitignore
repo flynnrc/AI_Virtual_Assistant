@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+venv/
+env/
+
+# Sensitive environment files
+*.env
+
+# Log files
+*.log
+
+# System-specific files
+*.tmp
+*.swp
+.DS_Store
+
+# Byte-compiled and temporary Python files
+*.egg-info/
